@@ -1,0 +1,5 @@
+TA-Lib
+backtesting
+yfinance
+pandas
+pandas-datareader
